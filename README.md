@@ -2,4 +2,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virussandy)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virussandy&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virussandy&count_private=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virussandy&show_icons=true)
