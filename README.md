@@ -9,4 +9,3 @@
 <a href="https://github.com/Virussandy/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virussandy&repo=convoychat" />
 </a> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Virussandy&theme=flat)](https://github.com/Virussandy/github-profile-trophy)
