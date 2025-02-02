@@ -1,7 +1,3 @@
-Here's an **enhanced and more attractive** version of your GitHub profile README with improved styling, sections, and visuals:
-
----
-
 ## **🌟 Hi there, I'm Sandeep Kumar Singh! 👋**
 ### 🚀 Android Developer | Open Source Enthusiast | Problem Solver  
 
