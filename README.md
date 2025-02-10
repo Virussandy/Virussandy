@@ -1,5 +1,4 @@
-## **🌟 Hi there, **
-### ** I'm Sandeep Kumar Singh! 👋**
+## **🌟 Hi there, I'm Sandeep Kumar Singh! 👋**
 ### 🚀 Android Developer | Open Source Enthusiast | Problem Solver  
 
 📌 Passionate about building **scalable Android applications** and solving **real-world problems**.  
