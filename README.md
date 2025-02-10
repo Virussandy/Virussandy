@@ -1,4 +1,7 @@
 ## **🌟 Hi there, I'm Sandeep Kumar Singh! 👋**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Virussandy/Virussandy/main/header.png" alt="## **🌟 Hi there, I'm Sandeep Kumar Singh! 👋**" width="400">
+</p>
 ### 🚀 Android Developer | Open Source Enthusiast | Problem Solver  
 
 📌 Passionate about building **scalable Android applications** and solving **real-world problems**.  
