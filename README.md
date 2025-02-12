@@ -30,8 +30,8 @@
 ---
 
 ### **🔥 Featured Projects**
-[![Deals App](https://github-readme-stats.vercel.app/api/pin/?username=Virussandy&repo=Android-Task&theme=tokyonight)](https://github.com/Virussandy/Android-Task)
-[![Astrology App](https://github-readme-stats.vercel.app/api/pin/?username=Virussandy&repo=Call-Look&theme=tokyonight)](https://github.com/Virussandy/Call-Look)  
+[![Android-Task](https://github-readme-stats.vercel.app/api/pin/?username=Virussandy&repo=Android-Task&theme=tokyonight)](https://github.com/Virussandy/Android-Task)
+[![Call-Look](https://github-readme-stats.vercel.app/api/pin/?username=Virussandy&repo=Call-Look&theme=tokyonight)](https://github.com/Virussandy/Call-Look)  
 
 🔗 **Explore more repositories at** [GitHub Profile](https://github.com/Virussandy?tab=repositories)
 
